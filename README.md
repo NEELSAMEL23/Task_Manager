@@ -37,6 +37,8 @@ A full-stack task management application built using the **MERN stack** with sec
 ## 📁 Folder Structure
 
 ### 🔙 Backend
+<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="500">
+A powerful full-stack Task Management System to organize, prioritize, and manage daily work efficiently.
 
 backend/
 ├── config/ # DB connection
